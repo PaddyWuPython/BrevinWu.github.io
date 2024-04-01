@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior year student from [BeiJing Institute of Technology](https://bit.edu.cn/),[school of Management and Economics](https://sme.bit.edu.cn/). I am applying for master programme in Europe and Japan and hope to study Data Science. My research intrest includes econometrics, machine learning and internet community.
+I am a senior year student from [BeiJing Institute of Technology](https://bit.edu.cn/), [School of Management and Economics](https://sme.bit.edu.cn/). I am applying for master programme in Europe and Japan and hope to study Data Science. My research intrest includes econometrics, machine learning and internet community.
 
 You can find my CV here:[Brevin Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
