@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am a senior year student from [BeiJing Institute of Technology](https://bit.edu.cn/), [School of Management and Economics](https://sme.bit.edu.cn/). 
+
 I am applying for master programme in Europe and Japan and hope to study Data Science. My research intrest includes econometrics, machine learning and internet community.
 
 I am learning to be a full-stack developer. And now I am studying Data Structure and MySQL.
