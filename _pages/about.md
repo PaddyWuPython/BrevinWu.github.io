@@ -11,7 +11,7 @@ I am a senior year student from [BeiJing Institute of Technology](https://bit.ed
 I am applying for master programme in Europe and Japan and hope to study Data Science. My research intrest includes econometrics, machine learning and internet community.
 
 I am learning to be a full-stack developer. And now I am studying Data Structure and MySQL.
-<p style="color: yellow;">I will promote update this website later! Welcome to know about me and contact me.</p>
+<p style="color: green;text-align: center">I will promote update this website later! Welcome to know about me and contact me.</p>
 
 You can find my CV here:[Brevin Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
