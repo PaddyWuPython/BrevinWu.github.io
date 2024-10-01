@@ -9,11 +9,11 @@ redirect_from:
 
 I am a senior year student from [BeiJing Institute of Technology](https://bit.edu.cn/), [School of Management and Economics](https://sme.bit.edu.cn/). 
 
-I am applying for master programme in Europe and Japan and hope to study Data Science. My research intrest includes econometrics, machine learning and internet community.
+I am study in EIT digital master programme.Now I am studying at university of Twente. My research intrest includes econometrics, machine learning in internet community.
 
-I am learning to be a full-stack developer. And now I am studying Data Structure and MySQL.
+I am learning to be a full-stack developer. And now I am studying Front-end technology and MySQL.
 <p style="color: green;text-align: center">I will promote update this website later! Welcome to know about me and contact me.</p>
 
 You can find my CV here:[Brevin Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
-[Email](mailto:1120193070@bit.edu.cn)/[Github](https://paddywupython.github.io/BrevinWu.github.io/)/[Wechat](../image/wechat.jpg)
+[Email](mailto:p.wu-2@student.utwente.nl)/[Github](https://paddywupython.github.io/BrevinWu.github.io/)/[Wechat](../image/wechat.jpg)
