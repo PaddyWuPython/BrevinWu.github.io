@@ -14,6 +14,6 @@ I am studying in EIT digital Data Science master programme.Now I am studying at 
 I am learning to be a full-stack developer. And now I am studying Front-end technology and MySQL.
 <p style="color: green;text-align: center">I will promote update this website later! Welcome to know about me and contact me.</p>
 
-You can find my CV here:[Brevin Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+You can find my CV here:[Brevin Wu's Curriculum Vitae](../files/resume.pdf)
 
 [Email](mailto:p.wu-2@student.utwente.nl)/[Github](https://paddywupython.github.io/BrevinWu.github.io/)/[Wechat](../image/wechat.jpg)
